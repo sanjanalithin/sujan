@@ -1,4 +1,3 @@
 java
 aws archit
 reactjs
-devops
