@@ -1,3 +1,4 @@
+python scripting
 java
 aws archit
 reactjs
